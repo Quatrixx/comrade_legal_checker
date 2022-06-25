@@ -13,6 +13,8 @@ the given deck is legal to play in MTG Comrade. Hope this saves a bit of time do
 
 &nbsp; 
 
+--- 
+
 This project uses [mtgtools](https://github.com/EskoSalaka/mtgtools) by Esko-Kalervo Salaka, so I include his License and Acknowledgements below:
 
 ## License (mtgtools)
