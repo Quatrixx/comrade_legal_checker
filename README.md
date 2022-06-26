@@ -8,6 +8,10 @@ The first time you do this, it will fetch a card database from the scryfall.com 
 Once you have the database, everything else happens locally: it checks Card names and amounts in your deck as well as some other things and tells you if
 the given deck is legal to play in MTG Comrade. Hope this saves a bit of time double-checking decks.
 
+## Download
+
+Simply head to the GitHub pages's ["releases" section](https://github.com/Quatrixx/comrade_legal_checker/releases).
+
 ## Author
 **Alexander Kitzig** - *"Quatrix"*
 
